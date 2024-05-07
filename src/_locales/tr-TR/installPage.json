@@ -1,0 +1,17 @@
+{
+  "installTitle": "2FAS Tarayıcı Eklentisi | Yapılandırma",
+  "installH1": "Başlamak için bu uzantıyı 2FAS mobil uygulamasıyla eşleştirmeniz gerekiyor.",
+  "installAppInstalled": "Uygulamayı yükledim",
+  "installScan": "Bu kodu, 2FAS mobil uygulamanızla tarayın",
+  "installStep1": "2FAS mobil uygulamasını açın",
+  "installStep2": "Ayarlar → Tarayıcı Eklentisi'ne gidin",
+  "installStep3": "\"Web tarayıcısıyla eşleştir\" seçeneğine dokunun ve QR kodu tarayın",
+  "installSuccessHeader": "2FAS Tarayıcı Eklentisi, 2FAS uygulamanızla başarıyla eşleştirildi",
+  "installSuccessSubheader": "Artık mobil uygulama onayıyla İki Faktörlü formları hızlı bir şekilde otomatik doldurabilirsiniz.",
+  "installStart": "Nasıl çalıştığını öğrenin",
+  "installGoToSettings": "Ayarlar'a git",
+  "installQuestions": "Herhangi bir sorunuz mu var? Okuyun",
+  "installBackToStep1": "Adım 1'e geri dön",
+  "installQRTimeoutText": "QR kodu süresi doldu",
+  "installQRTimeoutButton": "Yeniden oluşturmak için buraya tıklayın"
+}
